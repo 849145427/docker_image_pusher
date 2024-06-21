@@ -2,3 +2,4 @@
 --platform=linux/arm64 linuxserver/qbittorrent
 --platform=linux/arm64 razeencheng/nastool:2.9.1
 --platform=linux/arm64 natpierce/natpierce_server:latest
+--platform=linux/arm64 linuxserver/transmission:latest
